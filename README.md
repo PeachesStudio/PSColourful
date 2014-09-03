@@ -1,4 +1,4 @@
 PSColourful
 ========
 
-A library to manipulate colors easily
+A library to manipulate colors easily.
