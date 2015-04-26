@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = "PSColourful"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.summary       = "A library to manipulate colors easily."
   spec.homepage      = "https://github.com/PeachesStudio/PSColourful/"
   spec.license       = 'MIT'
